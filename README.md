@@ -31,7 +31,7 @@ Before installing Resoled, ensure you have the following:
 
 - Compatible operating system (Windows/MacOS)
 - Internet connection
-- Valid license key
+- Valid license key (Can Buy [Here](https://www.resoled.it/))
 
 ## Installation
 
