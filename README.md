@@ -2,7 +2,9 @@
   <img src="hero1.png" alt="Resoled App Image">
 </p>
 
-<h1 align="center">Resoled</h1>
+<p align="center">
+  <img src="logo.png" alt="Resoled Logo">
+</p>
 
 Resoled is a desktop application designed to enhance your eBay shopping experience. With Resoled, users can create tasks to monitor eBay for new listings and listings that are ending soon. It provides real-time notifications to ensure you never miss out on a great deal.
 
